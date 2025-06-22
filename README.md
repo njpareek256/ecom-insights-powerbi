@@ -1,20 +1,20 @@
-# 📊 Sales Performance Dashboard
+# 📊 Ecommerce Sales Dashboard – Power BI
 
-![Dashboard Screenshot](Assets/Superstore_Dashboard.png)
+![Dashboard Screenshot](Assets/Ecommerce_Sales_Dashboard.png)
 
-> A Power BI project visualizing sales performance vs. budget with conditional formatting, YoY growth, and KPIs across products, customers, and sales representatives.
+> A powerful, visually immersive Power BI dashboard designed to analyze ecommerce sales performance across regions, categories, customer segments, and time. This project provides key business insights that help drive data-informed decisions.
 
 ---
 
 ## 🔍 Overview
 
-This dashboard helps track and analyze:
-- Actual vs. Budgeted Sales (Value)
-- Surplus/Deficit and Performance %
-- Year-on-Year (YoY) Growth for Products and Customers
-- Conditional formatting to flag under/over-performance
-
-Built with **Power BI**, using data cleaning, DAX measures, and custom visuals.
+- **Total Sales, Profit, Quantity & AOV** – KPI cards to track overall performance
+- **State-wise Revenue** – Discover top-performing regions
+- **Category & Sub-Category Insights** – Track demand and profitability by product type
+- **Customer Breakdown** – View key buyers contributing to revenue
+- **Payment Mode Analysis** – Evaluate popular payment preferences (UPI, COD, EMI, etc.)
+- **Monthly Profit Trends** – Identify seasonal opportunities or dips
+- **Interactive Filters** – Analyze by quarter and product category dynamically
 
 ---
 
@@ -22,16 +22,16 @@ Built with **Power BI**, using data cleaning, DAX measures, and custom visuals.
 
 | File | Description |
 |------|-------------|
-| `powerbi dashboard project.pbix` | Main Power BI dashboard file |
-| `Assets/Superstore_Dashboard.png` | Dashboard image preview |
-| `Assets/Business Insights Project Video.mp4` | Optional walkthrough of the dashboard |
+| `Ecommerce_Sales_Dashboard.pbix` | Main Power BI dashboard file |
+| `Assets/Ecommerce_Sales_Dashboard.png` | Dashboard image preview |
+| `Assets/Ecommerce_Sales_Dashboard_Flow.mp4` | Optional walkthrough of the dashboard |
 
 
 ---
 
 ## ▶️ Preview
 
-[![Watch the demo](Assets/Superstore_Dashboard.png)](Assets/Superstore_Project.mp4)
+[![Watch the demo](Assets/Ecommerce_Sales_Dashboard.png)](Assets/Ecommerce_Sales_Dashboard_Flow.mp4)
 
 > Click on the image to play the walkthrough video if video doesn't opens then please download and run it locally.
 
